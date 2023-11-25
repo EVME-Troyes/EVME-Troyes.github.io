@@ -1,0 +1,5 @@
+title: Ensemble vocal Maurice Emmanuel
+remote_theme: "mmistakes/minimal-mistakes"
+locale: "fr"
+plugins:
+- jekyll-include-cache
