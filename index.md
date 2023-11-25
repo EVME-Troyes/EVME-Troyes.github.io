@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: Ensemble vocal Maurice Emmanuel
-excerpt: Une chorale exigeante et enthousiaste à Troyes
+title: Une chorale exigeante et enthousiaste
+excerpt: Au service de la vie culturelle troyenne depuis 1965
 header: 
   overlay_image: http://evme.free.fr/images/Fond_EVME.png
 ---
